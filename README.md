@@ -1,4 +1,4 @@
-# [Rick and Morty](asalferova.github.io/RickAndMorty/ "Ссылка на сайт")
+# [Rick and Morty](https://asalferova.github.io/RickAndMorty/ "Ссылка на сайт")
 
 # Содержание
 
