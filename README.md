@@ -1,7 +1,34 @@
-# Vue 3 + Vite
+# [Rick and Morty](asalferova.github.io/RickAndMorty/ "Ссылка на сайт")
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Содержание
 
-## Recommended IDE Setup
+1. <a href="#description">Описание проекта</a>
+2. <a href="#setup">Настройка проекта</a>
+3. <a href="#stack">Технологии</a>
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+<h2 id="description">Описание проекта</h2>
+
+Веб-приложение Rick and  Morty на Vue3 Composition API.
+
+<h2 id="setup">Настройка проекта</h2>
+
+### Установка
+```
+npm install
+```
+
+### Компилирует и выполняет перезагрузку для разработки
+```
+npm run dev
+```
+
+### Компилирует
+```
+npm run build
+```
+
+<h2 id="stack">Технологии</h2>
+
+   * Vue3 Composition API
+   * Vite
+   * axios
